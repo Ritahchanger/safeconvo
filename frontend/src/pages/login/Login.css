@@ -1,0 +1,17 @@
+.form-container{
+    width:90%;
+    max-width:800px;
+    
+        border-radius:10px;
+}
+.form-container .login-wrapper{
+    background:#666;
+}
+.form-container .login-wrapper .title span{
+    line-height: 2rem;
+    font-size:2rem;
+    margin-top:10px;
+    border-bottom:1px solid #0099ff;
+    width:100%;
+    display:block;
+}
