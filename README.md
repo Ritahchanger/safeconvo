@@ -30,3 +30,18 @@ SafeConvo is a realtime communication app built using the MERN stack (MongoDB, E
    ```bash
    git clone https://github.com/Ritahchanger/safeconvo.git
    cd safeconvo
+
+## `Running the site` ##
+
+- Inside the frontend folder,run `npm install`
+
+- Inside the backend folder,run `npm install`
+- then run (inside the frontend folder) `npm run dev`
+
+## `Create .env file inside the backend folder the add the following` ##
+
+- `MONGO_DB_URI=enter url of the mongodb installation`
+- `JWT_SECRET=enter the jwt secret`
+- Then run (inside the backend folder) `npm run dev`
+
+
